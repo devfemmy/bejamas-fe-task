@@ -1,0 +1,15 @@
+.header-img {
+    width: 12rem;
+}
+.cart-header-img {
+    height: 2.3rem;
+    width: 3rem;
+}
+.header-container {
+    border-bottom: 3px solid #E4E4E4;
+    min-height: 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}

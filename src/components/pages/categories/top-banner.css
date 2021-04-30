@@ -1,0 +1,39 @@
+.cart-btn {
+    font-size: 13px;
+    background-color: #000000;
+    border-radius: 0px;
+
+}
+.lower-text p {
+    color: #656565;
+    text-align: justify;
+}
+.lower-text p:last-child {
+    font-size: 13px;
+}
+.lower-details p {
+    text-align: right;
+    color: #656565;
+    margin-bottom: 0rem;
+    font-size: 12px;
+    
+}
+.breadcrumb {
+    background: none;
+}
+
+.breadcrumb-item a {
+    color: #000000;
+}
+.sortable select {
+    border: none;
+    font-size: 14px;
+    margin-bottom: 1.2rem;
+}
+.sortable label {
+    font-size: 14px;
+}
+.arrow-img {
+    margin-right: 0.3rem;
+    cursor: pointer;
+}

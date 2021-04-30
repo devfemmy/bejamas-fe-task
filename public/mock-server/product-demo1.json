@@ -1,0 +1,284 @@
+[
+	{
+		"id": 1,
+		"name": "Red Bench",
+		"price": 3.89,
+		"pictures": [
+			"assets/images/products/shoes-4.jpg"
+		],
+		"category": [
+			"people"
+		],
+		"format": 1,
+		"bestseller":false,
+		"featured": false
+	},
+	{
+		"id": 2,
+		"name": "Egg Baloon",
+		"price": 9.00,
+		"pictures": [
+			"assets/images/products/shoes-3.jpg"
+		],
+		"category": [
+			"food"
+		],
+		"format": 1,
+		"bestseller":false,
+		"featured": false
+	},
+	{
+		"id": 3,
+		"name": "Man",
+		"price": 19.00,
+		"pictures": [
+			"assets/images/products/speaker-3.jpg"
+		],
+		"category": [
+			"people"
+		],
+		"format": 1,
+		"bestseller":false,
+		"featured": false
+	},
+	{
+		"id": 4,
+		"name": "Architecture",
+		"price": 209.00,
+		"pictures": [
+			"assets/images/products/bag-4.jpg"
+		],
+		"category": [
+			"landmark"
+		],
+		"format": 1,
+		"bestseller": true,
+		"featured": false
+	},
+	{
+		"id": 5,
+		"name": "Samurai King Restling",
+		"price": 39.00,
+		"pictures": [
+			"assets/images/products/slider.png"
+		],
+		"dimension": "1000 * 1000 pixels",
+		"category": [
+			"Pets"
+		],
+		"format": 1,
+		"bestseller": false,
+		"featured": true
+	},
+	{
+		"id": 6,
+		"name": "Red Bench",
+		"price": 3.89,
+		"pictures": [
+			"assets/images/products/cap-2.jpg"
+		],
+		"category": [
+			"people"
+		],
+		"format": 1,
+		"bestseller": true,
+		"featured": false
+	},
+	{
+		"id": 7,
+		"name": "Egg Baloon",
+		"price": 9.00,
+		"pictures": [
+			"assets/images/products/glasses-1.jpg"
+		],
+		"category": [
+			"food"
+		],
+		"format": 1,
+		"bestseller": true,
+		"featured": false
+	},
+	{
+		"id": 8,
+		"name": "Man",
+		"price": 19.00,
+		"pictures": [
+			"assets/images/products/glasses-2.jpg"
+		],
+		"category": [
+			"people"
+		],
+		"format": 1,
+		"bestseller": true,
+		"featured": false
+	},
+	{
+		"id": 9,
+		"name": "Architecture",
+		"price": 209.00,
+		"pictures": [
+			"assets/images/products/cap-2.jpg"
+		],
+		"category": [
+			"landmark"
+		],
+		"format": 1,
+		"bestseller": true,
+		"featured": false
+	},
+	{
+		"id": 10,
+		"name": "Samurai King Restling 222",
+		"price": 39.00,
+		"pictures": [
+			"assets/images/products/cap-2.jpg"
+		],
+		"category": [
+			"landmarks"
+		],
+		"format": 1,
+		"bestseller":false,
+		"featured": false
+	},
+	{
+		"id": 11,
+		"name": "Red Bench",
+		"price": 13.89,
+		"pictures": [
+			"assets/images/products/cap-1.jpg"
+		],
+		"category": [
+			"people"
+		],
+		"format": 1,
+		"bestseller":false,
+		"featured": false
+	},
+	{
+		"id": 12,
+		"name": "Egg Baloon",
+		"price": 29.00,
+		"pictures": [
+			"assets/images/products/cap-1.jpg"
+		],
+		"category": [
+			"food"
+		],
+		"format": 1,
+		"bestseller":false,
+		"featured": false
+	},
+	{
+		"id": 13,
+		"name": "Man",
+		"price": 319.00,
+		"pictures": [
+			"assets/images/products/woman-shoes.jpg"
+		],
+		"category": [
+			"people"
+		],
+		"format": 1,
+		"bestseller":false,
+		"featured": false
+	},
+	{
+		"id": 14,
+		"name": "Architecture",
+		"price": 204.00,
+		"pictures": [
+			"assets/images/products/woman-shoes.jpg"
+		],
+		"category": [
+			"landmark"
+		],
+		"format": 1,
+		"bestseller":false,
+		"featured": false
+	},
+	{
+		"id": 15,
+		"name": "Samurai King Restling",
+		"price": 59.00,
+		"pictures": [
+			"assets/images/products/sports-bag.jpg"
+		],
+		"category": [
+			"landmarks"
+		],
+		"format": 1,
+		"bestseller": true,
+		"featured": false
+	},
+	{
+		"id": 16,
+		"name": "Red Bench",
+		"price": 23.89,
+		"pictures": [
+			"assets/images/products/sports-bag.jpg"
+		],
+		"category": [
+			"people"
+		],
+		"format": 1,
+		"bestseller": false,
+		"featured": false
+	},
+	{
+		"id": 17,
+		"name": "Egg Baloon",
+		"price": 49.00,
+		"pictures": [
+			"assets/images/products/backpack.jpg"
+		],
+		"category": [
+			"food"
+		],
+		"format": 1,
+		"bestseller": true,
+		"featured": false
+	},
+	{
+		"id": 18,
+		"name": "Man",
+		"price": 69.00,
+		"pictures": [
+			"assets/images/products/backpack.jpg"
+		],
+		"category": [
+			"people"
+		],
+		"format": 1,
+		"bestseller":false,
+		"featured": false
+	},
+	{
+		"id": 19,
+		"name": "Architecture",
+		"price": 219.00,
+		"pictures": [
+			"assets/images/products/backpack.jpg"
+		],
+		"category": [
+			"landmark"
+		],
+		"format": 1,
+		"bestseller":false,
+		"featured": false
+	},
+	{
+		"id": 20,
+		"name": "Samurai King Restling 222",
+		"price": 139.00,
+		"pictures": [
+			"assets/images/products/backpack.jpg"
+		],
+		"category": [
+			"landmarks"
+		],
+		"format": 1,
+		"bestseller":false,
+		"featured": false
+	}
+
+]
